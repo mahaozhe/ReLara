@@ -1,0 +1,8 @@
+gymnasium==0.29.1
+numpy==1.25.2
+torch==2.0.1
+matplotlib==3.8.0
+tensorboard==2.14.0
+stable_baselines3==2.1.0
+gymnasium[classic_control]
+gymnasium[mujoco]
