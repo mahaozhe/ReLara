@@ -4,11 +4,11 @@ The codes for the proposed **Re**inforcement **L**earning with an **A**ssistant 
 
 [[Paper Link](https://icml.cc/virtual/2024/poster/33703)]
 
-## Table of Contents
+The framework of the ReLara algorithm is shown below:
 
-- [Requirements](#requirements)
-- [Run ReLara Algorithm](#run-relara-algorithm)
-- [Comparative Evaluation](#comparative-evaluation)
+![The framework of the ReLara algorithm.](./readme-images/framework.svg)
+
+ReLara involves two agents: a policy agent (PA) and a reward agent (RA). The PA learns the policy to maximize the augmented rewards $r^E + \beta r^S$, while the RA learns to generate a dense shaped reward $r^S$. 
 
 ## Requirements
 
