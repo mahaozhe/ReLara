@@ -2,7 +2,7 @@
 
 The codes for the proposed **Re**inforcement **L**earning with an **A**ssistant **R**eward **A**gent (ReLara) algorithm.
 
-[[Paper Link](https://icml.cc/virtual/2024/poster/33703)]
+[[Paper Link](https://proceedings.mlr.press/v235/ma24l.html)]
 
 The framework of the ReLara algorithm is shown below:
 
